@@ -1,0 +1,36 @@
+.speech {
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+    color: black;
+}
+
+.direction {
+    background-color: lightyellow;
+    font-style: italic;
+}
+
+.direction:hover {
+    background-color: lightblue;
+    color: darkblue;
+}
+
+.name {
+    font-family: Georgia, serif;
+    font-size: 18px;
+}
+
+.wangel {
+    color: darkblue;
+}
+
+.ellida {
+    color: darkgreen;
+}
+
+.arnholm {
+    color: darkred;
+}
+
+.q {
+    font-style: italic;
+}
