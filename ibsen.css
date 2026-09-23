@@ -58,3 +58,27 @@ tr:nth-child(even) {
     border: 2px solid purple;
     padding: 5px;
 }
+.navbar {
+    background-color: darkblue;
+    padding: 15px;
+    margin-top: 25px;
+    text-align: center;
+}
+
+.navbar a {
+    color: white;
+    text-decoration: none;
+    padding: 15px 25px;
+    font-weight: bold;
+}
+
+.navbar a:hover {
+    background-color: lightblue;
+    color: darkblue;
+}
+.sea-image {
+    width: 350px;
+    height: auto;
+    border-radius: 10px;
+    margin: 10px 0 20px 0;
+}
